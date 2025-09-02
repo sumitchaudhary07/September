@@ -29,7 +29,7 @@ public class CountVowelConsonent {
 }
 	}
 	
-	System.out.println(vowel);
+	System.out.println("vowel count is"+ vowel);
 	System.out.println(consonent);
 	}
 
